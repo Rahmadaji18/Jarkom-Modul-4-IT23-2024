@@ -20,7 +20,7 @@
  <img src="attachment/topologi-vlsm.jpg">
  
 ### Cisco Packet Tracer | CIDR |
-
+![Topo](https://github.com/Rahmadaji18/Jarkom-Modul-4-IT23-2024/assets/62441217/346f6c06-ae7d-452d-ada8-6fbe1ca693df)  
  
 ## Rute Subnet
  <img src="attachment/rute1.jpg">
@@ -508,6 +508,18 @@ route add -net 10.75.21.168 netmask 255.255.255.248 gw 10.75.21.162
 route add -net 10.75.21.0 netmask 255.255.255.192 gw 10.75.21.162
 ```
 
+ ## CIDR
+ ### Tree CIDR
+ Berikut adalah Tree yang digunakan sebagai visualisasi CIDR
+ <img width="3140" alt="Tree CIDR" src="https://github.com/Rahmadaji18/Jarkom-Modul-4-IT23-2024/assets/62441217/e36a45d1-6f72-428e-a59b-8258de6cff9d">
 
+### Pembagian IP CIDR
+Berikut adalah pembagian IP pada CIDR
+![PembagianIPCIDR](https://github.com/Rahmadaji18/Jarkom-Modul-4-IT23-2024/assets/62441217/81319572-675c-41e4-8e23-ffb111f665cf)
 
+### Penggabungan CIDR
+<img width="2489" alt="Penggabungan CIDR" src="https://github.com/Rahmadaji18/Jarkom-Modul-4-IT23-2024/assets/62441217/48505cfe-8d7c-488b-a989-21136591c87d">
+
+### Routing CPT
+![routing](https://github.com/Rahmadaji18/Jarkom-Modul-4-IT23-2024/assets/62441217/47b06048-6c65-4efb-97a7-8b34482ada42)
 
